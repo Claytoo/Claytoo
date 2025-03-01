@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Claytoo</h1>
-<h3 align="center">A passionate game developer focusing on MMO Game Development</h3>
+<h3 align="center">A passionate game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claytoo&label=Profile%20views&color=0e75b6&style=flat" alt="claytoo" /> </p>
 
@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [CerenityStudio Prototype](https://github.com/CerenityStudio)
 
-- 🌱 I’m currently learning **MMO Game Development/Online RPG Game**
+- 🌱 I’m mainly use **Unity** and currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [Itch.io](https://imclaytoo.itch.io/)
-
-- 📫 How to reach me **claytoo.serophina@gmail.com**
-
-- ⚡ Fun fact **I really love cats**
+- 👨‍💻 My projects are available at [itch.io](https://imclaytoo.itch.io/)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/claytooserophina"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="claytooserophina" /></a></p>
